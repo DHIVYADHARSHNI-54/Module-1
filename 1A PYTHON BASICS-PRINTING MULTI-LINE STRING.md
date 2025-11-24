@@ -11,9 +11,8 @@ To create a Python program to print the string in multiple lines using triple qu
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212223060054
+# Name-DHIVYA DHARSHNI.B
 
 string_single_quotes = '''I am a string literal
 ... has more than one
@@ -29,6 +28,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+<img width="1262" height="594" alt="image" src="https://github.com/user-attachments/assets/9d095067-b546-4018-9072-db16b7420b28" />
 
 ## RESULT
-
+Thus a Python program to print the string in multiple lines using triple quotes has been executed successfully.
